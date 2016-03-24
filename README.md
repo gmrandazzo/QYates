@@ -13,11 +13,11 @@ QYates is able to compute:
 
 References:
 -----------
-Response Surfaces, Mixtures, and Ridge Analyses, 2nd Edition
-George E. P. Box, Norman R. Draper
-ISBN: 978-0-470-05357-7
-857 pages
-April 2007
+ Response Surfaces, Mixtures, and Ridge Analyses, 2nd Edition
+ George E. P. Box, Norman R. Draper
+ ISBN: 978-0-470-05357-7
+ 857 pages
+ April 2007
 
 
 License
@@ -48,10 +48,10 @@ Install
 
 To install for all users on Unix/Linux/OSX/Windows:
 
-  mkdir build # for linux/unix/osx
-  cmake .. 
-  make
-  cd src/
-  ./QYates # to run!
+- mkdir build # for linux/unix/osx
+- cmake .. 
+- make
+- cd src/
+- ./QYates # to run!
 
 
