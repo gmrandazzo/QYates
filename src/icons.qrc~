@@ -1,7 +1,0 @@
-<!DOCTYPE RCC><RCC version="1.0">
-  <qresource prefix="/">
-    <file>QYatesLogo.png</file>
-    <file>qyates.png</file>
-    <file>cleanwall.png</file>
-  </qresource>
-</RCC>
